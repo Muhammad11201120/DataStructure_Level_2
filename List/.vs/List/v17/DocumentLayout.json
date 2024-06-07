@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\WORK\\Programming\\c#\\DataStructure_Level_2\\List\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BBE09C39-FDCD-4FF7-859F-EFFE0909F454}|..\\List_With_Linq\\List_With_Linq.csproj|d:\\work\\programming\\c#\\datastructure_level_2\\list_with_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23C1B0CB-E6AF-4B88-B59B-CF2A1ACE8E4F}|List.csproj|d:\\work\\programming\\c#\\datastructure_level_2\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23C1B0CB-E6AF-4B88-B59B-CF2A1ACE8E4F}|List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -32,11 +35,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\Programming\\c#\\DataStructure_Level_2\\List_With_Linq\\Program.cs",
+              "RelativeDocumentMoniker": "..\\List_With_Linq\\Program.cs",
+              "ToolTip": "D:\\WORK\\Programming\\c#\\DataStructure_Level_2\\List_With_Linq\\Program.cs",
+              "RelativeToolTip": "..\\List_With_Linq\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:36:29.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\WORK\\Programming\\c#\\DataStructure_Level_2\\List\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\WORK\\Programming\\c#\\DataStructure_Level_2\\List\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA1AAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T09:17:55.579Z",
               "EditorCaption": ""
