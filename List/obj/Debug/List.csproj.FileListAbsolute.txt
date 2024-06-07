@@ -1,0 +1,7 @@
+D:\WORK\Programming\c#\DataStructure_Level_2\List\bin\Debug\List.exe.config
+D:\WORK\Programming\c#\DataStructure_Level_2\List\bin\Debug\List.exe
+D:\WORK\Programming\c#\DataStructure_Level_2\List\bin\Debug\List.pdb
+D:\WORK\Programming\c#\DataStructure_Level_2\List\obj\Debug\List.csproj.AssemblyReference.cache
+D:\WORK\Programming\c#\DataStructure_Level_2\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\WORK\Programming\c#\DataStructure_Level_2\List\obj\Debug\List.exe
+D:\WORK\Programming\c#\DataStructure_Level_2\List\obj\Debug\List.pdb
