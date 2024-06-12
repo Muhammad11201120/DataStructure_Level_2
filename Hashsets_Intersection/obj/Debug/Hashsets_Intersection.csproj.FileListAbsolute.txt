@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Intersection\bin\Debug\Hashsets_Intersection.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Intersection\bin\Debug\Hashsets_Intersection.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Intersection\bin\Debug\Hashsets_Intersection.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Intersection\obj\Debug\Hashsets_Intersection.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Intersection\obj\Debug\Hashsets_Intersection.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Intersection\obj\Debug\Hashsets_Intersection.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Intersection\obj\Debug\Hashsets_Intersection.pdb

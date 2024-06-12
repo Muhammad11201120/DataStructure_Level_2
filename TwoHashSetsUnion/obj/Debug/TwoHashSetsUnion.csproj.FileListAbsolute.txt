@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\TwoHashSetsUnion\bin\Debug\TwoHashSetsUnion.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\TwoHashSetsUnion\bin\Debug\TwoHashSetsUnion.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\TwoHashSetsUnion\bin\Debug\TwoHashSetsUnion.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\TwoHashSetsUnion\obj\Debug\TwoHashSetsUnion.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\TwoHashSetsUnion\obj\Debug\TwoHashSetsUnion.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\TwoHashSetsUnion\obj\Debug\TwoHashSetsUnion.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\TwoHashSetsUnion\obj\Debug\TwoHashSetsUnion.pdb

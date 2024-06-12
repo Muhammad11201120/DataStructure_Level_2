@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashset_Difference_Operation\bin\Debug\Hashset_Difference_Operation.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashset_Difference_Operation\bin\Debug\Hashset_Difference_Operation.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashset_Difference_Operation\bin\Debug\Hashset_Difference_Operation.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashset_Difference_Operation\obj\Debug\Hashset_Difference_Operation.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashset_Difference_Operation\obj\Debug\Hashset_Difference_Operation.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashset_Difference_Operation\obj\Debug\Hashset_Difference_Operation.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashset_Difference_Operation\obj\Debug\Hashset_Difference_Operation.pdb

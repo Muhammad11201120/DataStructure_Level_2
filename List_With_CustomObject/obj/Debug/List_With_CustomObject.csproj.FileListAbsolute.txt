@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\List_With_CustomObject\bin\Debug\List_With_CustomObject.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\List_With_CustomObject\bin\Debug\List_With_CustomObject.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\List_With_CustomObject\bin\Debug\List_With_CustomObject.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\List_With_CustomObject\obj\Debug\List_With_CustomObject.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\List_With_CustomObject\obj\Debug\List_With_CustomObject.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\List_With_CustomObject\obj\Debug\List_With_CustomObject.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\List_With_CustomObject\obj\Debug\List_With_CustomObject.pdb

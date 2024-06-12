@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Equals_Operation\bin\Debug\Hashsets_Equals_Operation.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Equals_Operation\bin\Debug\Hashsets_Equals_Operation.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Equals_Operation\bin\Debug\Hashsets_Equals_Operation.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Equals_Operation\obj\Debug\Hashsets_Equals_Operation.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Equals_Operation\obj\Debug\Hashsets_Equals_Operation.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Equals_Operation\obj\Debug\Hashsets_Equals_Operation.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Hashsets_Equals_Operation\obj\Debug\Hashsets_Equals_Operation.pdb
