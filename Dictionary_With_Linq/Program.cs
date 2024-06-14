@@ -64,9 +64,9 @@ namespace Dictionary_With_Linq
                 Console.WriteLine( item.Key + ",  "+item.Value );
             }
             Console.WriteLine( "--------------- Group By ------------------\n" );
+
+
             var groupedFruits = fruitsCategory.GroupBy( kpv => kpv.Value );
-
-
             foreach ( var group in groupedFruits )
             {
                 Console.WriteLine( $"Category: {group.Key}" );

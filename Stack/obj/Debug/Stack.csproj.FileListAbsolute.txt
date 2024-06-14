@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Stack\bin\Debug\Stack.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Stack\bin\Debug\Stack.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Stack\bin\Debug\Stack.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Stack\obj\Debug\Stack.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Stack\obj\Debug\Stack.pdb

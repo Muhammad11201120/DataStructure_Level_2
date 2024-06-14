@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Queue\bin\Debug\Queue.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Queue\bin\Debug\Queue.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Queue\bin\Debug\Queue.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Queue\obj\Debug\Queue.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Queue\obj\Debug\Queue.pdb

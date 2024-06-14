@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\ObservableCollections\bin\Debug\ObservableCollections.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\ObservableCollections\bin\Debug\ObservableCollections.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\ObservableCollections\bin\Debug\ObservableCollections.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\ObservableCollections\obj\Debug\ObservableCollections.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\ObservableCollections\obj\Debug\ObservableCollections.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\ObservableCollections\obj\Debug\ObservableCollections.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\ObservableCollections\obj\Debug\ObservableCollections.pdb

@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedSets\bin\Debug\SortedSets.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedSets\bin\Debug\SortedSets.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedSets\bin\Debug\SortedSets.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedSets\obj\Debug\SortedSets.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedSets\obj\Debug\SortedSets.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedSets\obj\Debug\SortedSets.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedSets\obj\Debug\SortedSets.pdb

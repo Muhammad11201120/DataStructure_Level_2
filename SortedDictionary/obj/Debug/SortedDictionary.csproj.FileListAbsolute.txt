@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedDictionary\bin\Debug\SortedDictionary.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedDictionary\bin\Debug\SortedDictionary.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedDictionary\bin\Debug\SortedDictionary.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedDictionary\obj\Debug\SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedDictionary\obj\Debug\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedDictionary\obj\Debug\SortedDictionary.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\SortedDictionary\obj\Debug\SortedDictionary.pdb
