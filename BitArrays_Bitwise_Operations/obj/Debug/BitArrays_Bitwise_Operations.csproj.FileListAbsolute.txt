@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays_Bitwise_Operations\bin\Debug\BitArrays_Bitwise_Operations.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays_Bitwise_Operations\bin\Debug\BitArrays_Bitwise_Operations.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays_Bitwise_Operations\bin\Debug\BitArrays_Bitwise_Operations.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays_Bitwise_Operations\obj\Debug\BitArrays_Bitwise_Operations.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays_Bitwise_Operations\obj\Debug\BitArrays_Bitwise_Operations.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays_Bitwise_Operations\obj\Debug\BitArrays_Bitwise_Operations.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays_Bitwise_Operations\obj\Debug\BitArrays_Bitwise_Operations.pdb

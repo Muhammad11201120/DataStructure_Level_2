@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Tuples\bin\Debug\Tuples.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Tuples\bin\Debug\Tuples.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Tuples\obj\Debug\Tuples.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Tuples\obj\Debug\Tuples.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Tuples\obj\Debug\Tuples.pdb

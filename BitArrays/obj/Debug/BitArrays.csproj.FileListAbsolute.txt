@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays\bin\Debug\BitArrays.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays\bin\Debug\BitArrays.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays\bin\Debug\BitArrays.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays\obj\Debug\BitArrays.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays\obj\Debug\BitArrays.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays\obj\Debug\BitArrays.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\BitArrays\obj\Debug\BitArrays.pdb

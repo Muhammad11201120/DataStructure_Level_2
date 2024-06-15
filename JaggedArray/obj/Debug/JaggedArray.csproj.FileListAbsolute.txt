@@ -1,0 +1,7 @@
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\JaggedArray\obj\Debug\JaggedArray.pdb
