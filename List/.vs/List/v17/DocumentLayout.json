@@ -3,32 +3,10 @@
   "WorkspaceRootPath": "D:\\Programming\\c#\\DataStructure_Level_2\\List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D7955C1-B69C-4017-B67F-8A0095ABE1DC}|..\\Custom_Collections_IComparable\\Custom_Collections_IComparable.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_icomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F82652-F8DA-48C8-A9CA-2B8BE3362BA5}|..\\Trees_My_Family_Tree\\Trees_My_Family_Tree.csproj|d:\\programming\\c#\\datastructure_level_2\\trees_my_family_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B21DDEF-3045-4E36-865C-0165088CAAF0}|..\\Custom_Collections_IDictionary\\Custom_Collections_IDictionary.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_idictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF2E2806-0EF2-4B1B-A3A4-B2A546949DD6}|..\\Custom_Collections_Iset\\Custom_Collections_Iset.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_iset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D76883C-AB0A-42A4-AD47-BD5BAD1C61E8}|..\\JaggedArray\\JaggedArray.csproj|d:\\programming\\c#\\datastructure_level_2\\jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4C5288C-F1D2-4250-9F2E-4207A8405C21}|..\\Custom_Collections_ICollection\\Custom_Collections_ICollection.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_icollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{589EA637-2B00-4B42-BA8F-67E920BDB95E}|..\\Custom_Collections_IList\\Custom_Collections_IList.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_ilist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E47433-5F27-402B-B712-C8303FCF09BA}|..\\Hashsets_Intersection\\Hashsets_Intersection.csproj|d:\\programming\\c#\\datastructure_level_2\\hashsets_intersection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C1B0CB-E6AF-4B88-B59B-CF2A1ACE8E4F}|List.csproj|D:\\Programming\\c#\\DataStructure_Level_2\\List\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C1B0CB-E6AF-4B88-B59B-CF2A1ACE8E4F}|List.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\muha1\\Desktop\\Programming\\DataStructure_Level_2\\Custom_Collections_ICollection\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{875004A8-EE21-45C4-BDE3-480209C002A0}|..\\Trees_FamilyTree\\Trees_FamilyTree.csproj|d:\\programming\\c#\\datastructure_level_2\\trees_familytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,111 +24,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_IComparable\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Custom_Collections_IComparable\\Program.cs",
-              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_IComparable\\Program.cs",
-              "RelativeToolTip": "..\\Custom_Collections_IComparable\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:25:50.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_IDictionary\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Custom_Collections_IDictionary\\Program.cs",
-              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_IDictionary\\Program.cs",
-              "RelativeToolTip": "..\\Custom_Collections_IDictionary\\Program.cs",
-              "ViewState": "AQIAAGoBAAAAAAAAAAAAAF0BAAApAAAA",
+              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_FamilyTree\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Trees_FamilyTree\\Program.cs",
+              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_FamilyTree\\Program.cs",
+              "RelativeToolTip": "..\\Trees_FamilyTree\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:25:21.287Z",
+              "WhenOpened": "2024-06-19T23:26:29.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_Iset\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Custom_Collections_Iset\\Program.cs",
-              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_Iset\\Program.cs",
-              "RelativeToolTip": "..\\Custom_Collections_Iset\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAAYAAAA",
+              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_My_Family_Tree\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Trees_My_Family_Tree\\Program.cs",
+              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_My_Family_Tree\\Program.cs",
+              "RelativeToolTip": "..\\Trees_My_Family_Tree\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwCcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:23:56.196Z",
+              "WhenOpened": "2024-06-19T23:16:02.946Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\JaggedArray\\Program.cs",
-              "RelativeDocumentMoniker": "..\\JaggedArray\\Program.cs",
-              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\JaggedArray\\Program.cs",
-              "RelativeToolTip": "..\\JaggedArray\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:22:54.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_IList\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Custom_Collections_IList\\Program.cs",
-              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_IList\\Program.cs",
-              "RelativeToolTip": "..\\Custom_Collections_IList\\Program.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAFIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:10:41.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_ICollection\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Custom_Collections_ICollection\\Program.cs",
-              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_ICollection\\Program.cs",
-              "RelativeToolTip": "..\\Custom_Collections_ICollection\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:08:21.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Hashsets_Intersection\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Hashsets_Intersection\\Program.cs",
-              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Hashsets_Intersection\\Program.cs",
-              "RelativeToolTip": "..\\Hashsets_Intersection\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T12:03:24.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\List\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\List\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T11:26:55.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\muha1\\Desktop\\Programming\\DataStructure_Level_2\\Custom_Collections_ICollection\\Program.cs",
-              "ToolTip": "C:\\Users\\muha1\\Desktop\\Programming\\DataStructure_Level_2\\Custom_Collections_ICollection\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T18:57:54.248Z"
             }
           ]
         }
