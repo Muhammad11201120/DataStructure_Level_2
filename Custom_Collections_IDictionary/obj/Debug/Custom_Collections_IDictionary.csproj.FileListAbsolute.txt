@@ -1,0 +1,7 @@
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IDictionary\bin\Debug\Custom_Collections_IDictionary.exe.config
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IDictionary\bin\Debug\Custom_Collections_IDictionary.exe
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IDictionary\bin\Debug\Custom_Collections_IDictionary.pdb
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IDictionary\obj\Debug\Custom_Collections_IDictionary.csproj.AssemblyReference.cache
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IDictionary\obj\Debug\Custom_Collections_IDictionary.csproj.CoreCompileInputs.cache
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IDictionary\obj\Debug\Custom_Collections_IDictionary.exe
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IDictionary\obj\Debug\Custom_Collections_IDictionary.pdb

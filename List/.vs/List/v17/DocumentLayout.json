@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "D:\\Programming\\c#\\DataStructure_Level_2\\List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF2E2806-0EF2-4B1B-A3A4-B2A546949DD6}|..\\Custom_Collections_Iset\\Custom_Collections_Iset.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_iset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7955C1-B69C-4017-B67F-8A0095ABE1DC}|..\\Custom_Collections_IComparable\\Custom_Collections_IComparable.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_icomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B21DDEF-3045-4E36-865C-0165088CAAF0}|..\\Custom_Collections_IDictionary\\Custom_Collections_IDictionary.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_idictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D7955C1-B69C-4017-B67F-8A0095ABE1DC}|..\\Custom_Collections_IComparable\\Custom_Collections_IComparable.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_icomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF2E2806-0EF2-4B1B-A3A4-B2A546949DD6}|..\\Custom_Collections_Iset\\Custom_Collections_Iset.csproj|d:\\programming\\c#\\datastructure_level_2\\custom_collections_iset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D76883C-AB0A-42A4-AD47-BD5BAD1C61E8}|..\\JaggedArray\\JaggedArray.csproj|d:\\programming\\c#\\datastructure_level_2\\jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_IComparable\\Program.cs",
               "RelativeDocumentMoniker": "..\\Custom_Collections_IComparable\\Program.cs",
               "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_IComparable\\Program.cs",
               "RelativeToolTip": "..\\Custom_Collections_IComparable\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T13:25:50.224Z",
               "EditorCaption": ""
@@ -65,20 +65,20 @@
               "RelativeDocumentMoniker": "..\\Custom_Collections_IDictionary\\Program.cs",
               "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_IDictionary\\Program.cs",
               "RelativeToolTip": "..\\Custom_Collections_IDictionary\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAAAF0BAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T13:25:21.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_Iset\\Program.cs",
               "RelativeDocumentMoniker": "..\\Custom_Collections_Iset\\Program.cs",
               "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Custom_Collections_Iset\\Program.cs",
               "RelativeToolTip": "..\\Custom_Collections_Iset\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAArAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T13:23:56.196Z",
               "EditorCaption": ""
@@ -93,8 +93,7 @@
               "RelativeToolTip": "..\\JaggedArray\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:22:54.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T13:22:54.076Z"
             },
             {
               "$type": "Document",
@@ -118,8 +117,7 @@
               "RelativeToolTip": "..\\Custom_Collections_ICollection\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:08:21.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T23:08:21.63Z"
             },
             {
               "$type": "Document",
