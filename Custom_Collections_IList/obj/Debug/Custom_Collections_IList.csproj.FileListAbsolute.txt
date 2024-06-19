@@ -1,0 +1,7 @@
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IList\bin\Debug\Custom_Collections_IList.exe.config
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IList\bin\Debug\Custom_Collections_IList.exe
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IList\bin\Debug\Custom_Collections_IList.pdb
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IList\obj\Debug\Custom_Collections_IList.csproj.AssemblyReference.cache
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IList\obj\Debug\Custom_Collections_IList.csproj.CoreCompileInputs.cache
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IList\obj\Debug\Custom_Collections_IList.exe
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_IList\obj\Debug\Custom_Collections_IList.pdb

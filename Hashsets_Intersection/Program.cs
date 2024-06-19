@@ -16,10 +16,10 @@ namespace Hashsets_Intersection
             HashSet<int> set2 = new HashSet<int> {
                 3,4,5
             };
-
+            
             set1.IntersectWith( set2 );
 
-            foreach ( int i in set1 )
+            foreach( int i in set1 )
             {
                 Console.WriteLine( i );
             }

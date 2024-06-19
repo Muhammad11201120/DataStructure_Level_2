@@ -5,3 +5,10 @@ C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Custom_Collections_ICol
 C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Custom_Collections_ICollection\obj\Debug\Custom_Collections_ICollection.csproj.CoreCompileInputs.cache
 C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Custom_Collections_ICollection\obj\Debug\Custom_Collections_ICollection.exe
 C:\Users\muha1\Desktop\Programming\DataStructure_Level_2\Custom_Collections_ICollection\obj\Debug\Custom_Collections_ICollection.pdb
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_ICollection\bin\Debug\Custom_Collections_ICollection.exe.config
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_ICollection\bin\Debug\Custom_Collections_ICollection.exe
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_ICollection\bin\Debug\Custom_Collections_ICollection.pdb
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_ICollection\obj\Debug\Custom_Collections_ICollection.csproj.AssemblyReference.cache
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_ICollection\obj\Debug\Custom_Collections_ICollection.csproj.CoreCompileInputs.cache
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_ICollection\obj\Debug\Custom_Collections_ICollection.exe
+D:\Programming\c#\DataStructure_Level_2\Custom_Collections_ICollection\obj\Debug\Custom_Collections_ICollection.pdb
