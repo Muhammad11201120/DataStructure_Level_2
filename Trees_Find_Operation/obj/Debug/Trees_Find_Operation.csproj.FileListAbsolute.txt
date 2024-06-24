@@ -1,0 +1,7 @@
+D:\Programming\c#\DataStructure_Level_2\Trees_Find_Operation\bin\Debug\Trees_Find_Operation.exe.config
+D:\Programming\c#\DataStructure_Level_2\Trees_Find_Operation\bin\Debug\Trees_Find_Operation.exe
+D:\Programming\c#\DataStructure_Level_2\Trees_Find_Operation\bin\Debug\Trees_Find_Operation.pdb
+D:\Programming\c#\DataStructure_Level_2\Trees_Find_Operation\obj\Debug\Trees_Find_Operation.csproj.AssemblyReference.cache
+D:\Programming\c#\DataStructure_Level_2\Trees_Find_Operation\obj\Debug\Trees_Find_Operation.csproj.CoreCompileInputs.cache
+D:\Programming\c#\DataStructure_Level_2\Trees_Find_Operation\obj\Debug\Trees_Find_Operation.exe
+D:\Programming\c#\DataStructure_Level_2\Trees_Find_Operation\obj\Debug\Trees_Find_Operation.pdb

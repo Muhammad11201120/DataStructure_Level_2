@@ -3,6 +3,15 @@
   "WorkspaceRootPath": "D:\\Programming\\c#\\DataStructure_Level_2\\List\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A387588A-8508-49C2-8AE9-9EF0EAC58BA1}|..\\Trees_Binary_Tree\\Trees_Binary_Tree.csproj|d:\\programming\\c#\\datastructure_level_2\\trees_binary_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374A0D67-99DA-4313-8F6B-983CCD7A0BA2}|..\\Trees_Find_Operation\\Trees_Find_Operation.csproj|d:\\programming\\c#\\datastructure_level_2\\trees_find_operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF939FC-1685-4829-8ADC-4FD539169BDA}|..\\Trees_GeneralTree\\Trees_GeneralTree.csproj|d:\\programming\\c#\\datastructure_level_2\\trees_generaltree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27F82652-F8DA-48C8-A9CA-2B8BE3362BA5}|..\\Trees_My_Family_Tree\\Trees_My_Family_Tree.csproj|d:\\programming\\c#\\datastructure_level_2\\trees_my_family_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,7 +33,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_Binary_Tree\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Trees_Binary_Tree\\Program.cs",
+              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_Binary_Tree\\Program.cs",
+              "RelativeToolTip": "..\\Trees_Binary_Tree\\Program.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAwwJgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:52:53.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_GeneralTree\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Trees_GeneralTree\\Program.cs",
+              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_GeneralTree\\Program.cs",
+              "RelativeToolTip": "..\\Trees_GeneralTree\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:30:21.718Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_Find_Operation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Trees_Find_Operation\\Program.cs",
+              "ToolTip": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_Find_Operation\\Program.cs",
+              "RelativeToolTip": "..\\Trees_Find_Operation\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:49:08.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_FamilyTree\\Program.cs",
               "RelativeDocumentMoniker": "..\\Trees_FamilyTree\\Program.cs",
@@ -32,12 +78,11 @@
               "RelativeToolTip": "..\\Trees_FamilyTree\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAABwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T23:26:29.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T23:26:29.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\c#\\DataStructure_Level_2\\Trees_My_Family_Tree\\Program.cs",
               "RelativeDocumentMoniker": "..\\Trees_My_Family_Tree\\Program.cs",
@@ -45,8 +90,7 @@
               "RelativeToolTip": "..\\Trees_My_Family_Tree\\Program.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAmwCcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T23:16:02.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T23:16:02.946Z"
             }
           ]
         }
